@@ -1,7 +1,7 @@
 # Deploying FastAPI Microservices on Azure Kubernetes Service (AKS) using Terraform
 
 This repository contains all the necessary configurations and guidelines for deploying a bookstore application built with FastAPI on Azure Kubernetes Service (AKS) using Terraform. This project demonstrates setting up a robust Kubernetes cluster and deploying microservices that manage books and client data, utilizing an API Gateway for seamless service interaction.
-
+![Project_architecture.png](Assets%2FProject_architecture.png)
 ## Prerequisites
 
 Before you start, make sure you have installed and configured the following tools:
